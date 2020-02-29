@@ -17,6 +17,7 @@ set hlsearch          " 高亮搜索
 set termguicolors     " 开启真彩色
 set ignorecase        " 搜索时忽略大小写
 set smartcase         " 如果搜索包含大写字母，将区分大小写
+set mouse=a           " 支持鼠标定位
 
 filetype on
 filetype plugin on
