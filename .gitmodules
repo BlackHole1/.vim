@@ -1,0 +1,9 @@
+[submodule "pack/plugins/start/vimcdoc"]
+	path = pack/plugins/start/vimcdoc
+	url = git://github.com/yianwillis/vimcdoc.git
+[submodule "pack/plugins/start/colorizer"]
+	path = pack/plugins/start/colorizer
+	url = git@github.com:lilydjwg/colorizer.git
+[submodule "pack/plugins/start/nerdcommenter"]
+	path = pack/plugins/start/nerdcommenter
+	url = git@github.com:preservim/nerdcommenter.git
